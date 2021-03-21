@@ -350,7 +350,7 @@ p  {
 .profiles-banner h1 {
     font-family: 'Avenir';
     font-size: 28px;
-    font-weight: 100;
+    font-weight: 200px;
     font-style: italic;
     line-height: 35px;
     color: #111;
@@ -360,7 +360,7 @@ p  {
     font-family: 'Avenir';
     font-size: 70px;
     color: #111;
-    text-align: center;
+    text-align: left;
     text-shadow: 2px 2px 5px #897c4d
 }
 
@@ -372,8 +372,9 @@ p  {
     font-size: 16px;
 }
 
-.profiles-pages h2{
+.profiles-pages h3 {
     font-size: 20px;
+    text-align: left;
 }
 
 @media only screen and (min-width: 1000px) {
