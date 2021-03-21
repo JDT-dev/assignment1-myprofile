@@ -287,7 +287,7 @@ p  {
 .about-banner {
     width: 100%;
     height: calc(100vh - 100px);
-    background-image: url('img/lilly-me.jpg');
+    background-image: url('img/leaves.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -467,12 +467,6 @@ p  {
 
 .job-banner {
         height: 500px;
-}
-
-.box-job {
-    width: 30%;
-    height: 200px;
-    border: 5px dashed #111
 }
 
 .job-pages {
