@@ -109,6 +109,7 @@ input, select {
 * {
     font-family:"Avenir";
 }
+
 body {
     background-color: #fff;
 }
@@ -239,7 +240,19 @@ header .header-profiles {
 }
 
 p  {
+    line-height: 1.5;
+    font-size: 18px;
     color: #111
+}
+
+li {
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+ul li {
+    line-height: 1.5;
+    font-size: 18px;
 }
 
 /* styling link pages - menus*/
