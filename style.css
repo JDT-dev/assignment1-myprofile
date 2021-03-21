@@ -434,7 +434,7 @@ p  {
 .job-banner {
     width: 100%;
     height: calc(100vh - 100px);
-    background-image: url('img/robot-dog.jpg');
+    background-image: url('img/office.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -450,10 +450,10 @@ p  {
 .job-banner h1 {
     font-family: 'Avenir';
     font-size: 28px;
-    font-weight: 100;
+    font-weight: 200px;
     font-style: italic;
     line-height: 35px;
-    color: #d3d3d3;
+    color: #111;
     text-align: center;
 }
 
